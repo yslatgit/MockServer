@@ -1,0 +1,14 @@
+[  
+  {
+   "request":
+     {
+       "method":"post",
+       "uri":"/login"
+	 },
+  
+    "response" :
+      {
+        "text" : "Hello World!"
+      }
+  }
+]

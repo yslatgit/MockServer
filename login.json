@@ -1,0 +1,22 @@
+[
+  {
+    "request":
+    {
+      "method":"post",
+      "uri":"/login",
+      "forms":
+      {
+        "username":"admin",
+        "password":"admin"
+      }
+    },
+    "response":
+    {
+      "json":
+      {
+        "username":"ysl",
+        "mock":"server"
+      }
+    }
+  }
+]
